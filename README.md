@@ -1,2 +1,2 @@
-# Bukumage
+# Jotfinity
 技術サイトを記録するためのマネジャーアプリ
