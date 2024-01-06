@@ -1,6 +1,5 @@
 import { IconType } from 'react-icons/lib';
 import { AiFillDashboard } from 'react-icons/ai';
-import { HiOutlineUserGroup } from 'react-icons/hi';
 import { CiSettings } from "react-icons/ci";
 
 type Window = {
@@ -15,11 +14,6 @@ export const windows: Window[] = [
         href: '/',
         icon: AiFillDashboard
     },
-    {
-        name: 'Sample1',
-        href: '/sample1',
-        icon: HiOutlineUserGroup
-    }
 ]
 
 export const specialWindows: Window[] = [
